@@ -128,3 +128,7 @@ Relacionamentos criados pelo usuário
   Percorre círculos sociais de forma profunda
 
 #### Este projeto demonstra na prática como grafo é uma estrutura essencial para modelar redes humanas, conexões profissionais, sistemas sociais e muito mais.
+
+# Video Explicando o Trabalho:
+
+https://www.loom.com/share/734e0799aec14f8490041d07f7ad00ab
